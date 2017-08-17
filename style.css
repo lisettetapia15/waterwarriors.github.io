@@ -1,0 +1,16 @@
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+
+}
+ h2 {text-align: left;}
+
+p {
+    font-family: "fantasy";
+    font-size: 18px;
+}
